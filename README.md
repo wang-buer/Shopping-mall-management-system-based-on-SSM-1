@@ -1,41 +1,79 @@
-# 基于SSM的商城管理系统1
+# 基于SSM的商城管理系统
 
-#### 介绍
+## 1、项目介绍
+
 基于SSM的商城管理系统拥有两种角色，用户和管理员
 
 用户：商品查看、购买，历史订单查询、购物车功能、留言
 
 管理员：商品管理、分类管理、订单管理、用户管理、留言管理
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端框架：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x版本均可
+- 数据库版本：MySql 5.7
+- maven项目：否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![前台登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258041.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![后台登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258492.jpeg)
 
-#### 参与贡献
+### 4.2 前端模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![商城首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258200.jpg)
 
+![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258657.jpg)
 
-#### 特技
+### 4.3 用户模块
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258005.jpg)
+
+![个人订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258402.jpg)
+
+![留言板](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258966.jpg)
+
+用户可以购买商品，根据关键词筛查订单，发布留言等功能
+
+### 4.4 管理员模块
+
+![管理员—商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259735.jpg)
+
+![管理员—上传商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259413.jpg)
+
+![管理员—分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259736.jpg)
+
+![管理员—用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259659.jpg)
+
+![管理员—订单挂管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259305.jpg)
+
+- 商品管理：管理员可以对商品进行增加、编辑和删除操作
+- 分类管理：管理员可以对分类进行增加、编辑和删除操作
+- 订单管理：管理员可以查看所有订单，订单发货，查看未付款、已付款、已发货、完成状态的订单
+- 用户管理：管理员可以对查看用户信息
+- 留言管理：管理员可以管理留言
+
+## 4.5目录
+
+![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281327951.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词： “**商城1**” ，
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+

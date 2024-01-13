@@ -1,4 +1,10 @@
-# 基于SSM的商城管理系统
+# 基于SSM的商城管理系统1
+
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**商城**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -29,37 +35,37 @@
 
 ### 4.1 登录
 
-![前台登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258041.jpg)
+![前台登录](https://www.codeshop.fun/Typora-Images/202205281258041.jpg)
 
-![后台登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258492.jpeg)
+![后台登录](https://www.codeshop.fun/Typora-Images/202205281258492.jpeg)
 
 ### 4.2 前端模块
 
-![商城首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258200.jpg)
+![商城首页](https://www.codeshop.fun/Typora-Images/202205281258200.jpg)
 
-![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258657.jpg)
+![商品详情](https://www.codeshop.fun/Typora-Images/202205281258657.jpg)
 
 ### 4.3 用户模块
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258005.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202205281258005.jpg)
 
-![个人订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258402.jpg)
+![个人订单](https://www.codeshop.fun/Typora-Images/202205281258402.jpg)
 
-![留言板](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281258966.jpg)
+![留言板](https://www.codeshop.fun/Typora-Images/202205281258966.jpg)
 
 用户可以购买商品，根据关键词筛查订单，发布留言等功能
 
 ### 4.4 管理员模块
 
-![管理员—商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259735.jpg)
+![管理员—商品管理](https://www.codeshop.fun/Typora-Images/202205281259735.jpg)
 
-![管理员—上传商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259413.jpg)
+![管理员—上传商品](https://www.codeshop.fun/Typora-Images/202205281259413.jpg)
 
-![管理员—分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259736.jpg)
+![管理员—分类管理](https://www.codeshop.fun/Typora-Images/202205281259736.jpg)
 
-![管理员—用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259659.jpg)
+![管理员—用户管理](https://www.codeshop.fun/Typora-Images/202205281259659.jpg)
 
-![管理员—订单挂管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281259305.jpg)
+![管理员—订单挂管理](https://www.codeshop.fun/Typora-Images/202205281259305.jpg)
 
 - 商品管理：管理员可以对商品进行增加、编辑和删除操作
 - 分类管理：管理员可以对分类进行增加、编辑和删除操作
@@ -69,11 +75,5 @@
 
 ## 4.5目录
 
-![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281327951.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词： “**商城1**” ，
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![目录](https://www.codeshop.fun/Typora-Images/202205281327951.jpg)
 
